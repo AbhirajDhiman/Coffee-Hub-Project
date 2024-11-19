@@ -1,0 +1,58 @@
+[
+  {
+      "id": 1,
+      "name": "Espresso",
+      "description": "A rich and intense coffee shot with a smooth, bold flavor.",
+      "price": 3.00,
+      "image": "Assets/espresso.png"
+  },
+  {
+      "id": 2,
+      "name": "Cappuccino",
+      "description": "A classic Italian coffee with steamed milk and frothy foam on top.",
+      "price": 4.50,
+      "image": "Assets/pngwing.com.png"
+  },
+  {
+      "id": 3,
+      "name": "Latte",
+      "description": "A smooth blend of espresso and steamed milk with a light layer of foam.",
+      "price": 4.00,
+      "image": "Assets/Latte.png"
+  },
+  {
+      "id": 4,
+      "name": "Mocha",
+      "description": "A delicious mix of espresso, chocolate, and steamed milk with whipped cream.",
+      "price": 5.00,
+      "image": "Assets/Mocha.jpeg"
+  },
+  {
+      "id": 5,
+      "name": "Americano",
+      "description": "A strong, simple coffee made with espresso and hot water.",
+      "price": 2.50,
+      "image": "Assets/Americano.png"
+  },
+  {
+      "id": 6,
+      "name": "Macchiato",
+      "description": "An espresso with a dollop of steamed milk, offering a bold, rich taste.",
+      "price": 3.50,
+      "image": "Assets/Machiato.png"
+  },
+  {
+      "id": 7,
+      "name": "Flat White",
+      "description": "A velvety smooth blend of espresso and micro-foamed milk.",
+      "price": 4.25,
+      "image": "Assets/flatWhite.png"
+  },
+  {
+      "id": 8,
+      "name": "Iced Coffee",
+      "description": "Cold, refreshing coffee served over ice with optional milk and syrup.",
+      "price": 3.75,
+      "image": "Assets/icedCafe.png"
+  }
+]
