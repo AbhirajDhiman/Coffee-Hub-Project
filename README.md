@@ -14,9 +14,7 @@ Welcome to **Coffee Hub**, a modern web application designed to bring coffee ent
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript (React)
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Tokens) for secure login
+
 
 ## Getting Started
 
@@ -87,6 +85,3 @@ We welcome contributions to Coffee Hub! If you would like to improve the project
 4. Push the changes to your fork
 5. Submit a pull request with a description of the changes
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
